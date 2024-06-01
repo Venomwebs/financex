@@ -1,0 +1,9 @@
+  =>   Name    : Finance.Trade
+
+  =>  Template Link    : https://htmlcodex.com/bootstrap-5-admin-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Venomwebs
+
+  =>  Author Website   : https://Venomwebs.com
